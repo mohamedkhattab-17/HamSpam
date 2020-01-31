@@ -5,7 +5,7 @@ import pandas as pd
 from nltk.corpus import stopwords
 from flask import Flask,render_template,url_for,request
 
-
+a=[]
 
 app = Flask(__name__)
 
